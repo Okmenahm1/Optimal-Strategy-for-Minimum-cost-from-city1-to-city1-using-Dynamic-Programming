@@ -36,7 +36,6 @@ This project solves the problem of finding the **minimum-cost travel path** from
 ## 📌 Example Output
 
 - **Best Path**: City1 → CityA → CityB → City2  
-- **Final Hotel**: Hotel Z  
 - **Total Cost**: 195
 
 - **DP Table**:  
